@@ -1,0 +1,38 @@
+{
+  "name": "eslint-config-mmontes11-react",
+  "version": "1.0.0",
+  "description": "Eslint config for ReactJS by Martín Montes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmontes11/eslint-config-mmontes11-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslint-config",
+    "es6",
+    "reactjs",
+    "react"
+  ],
+  "author": "Martín Montes <martin11lrx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmontes11/eslint-config-mmontes11-react/issues"
+  },
+  "homepage": "https://github.com/mmontes11/eslint-config-mmontes11-react#readme",
+  "dependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.8.1",
+    "prettier": "^1.12.1"
+  }
+}
