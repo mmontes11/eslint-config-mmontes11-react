@@ -22,13 +22,15 @@ module.exports = {
     "prettier/prettier": "error",
     "react/jsx-filename-extension": 0
   },
-  "import/resolver": {
-    webpack: {
-      config: "webpack.config.js",
-      extensions: [
-        ".js",
-        ".jsx"
-      ]
+  settings: {
+    "import/resolver": {
+      webpack: {
+        config: "webpack.config.js",
+        extensions: [
+          ".js",
+          ".jsx"
+        ]
+      }
     }
   }
 };
