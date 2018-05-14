@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mmontes11-react",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Eslint config for ReactJS by Martín Montes",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,8 @@
     "eslint-config",
     "es6",
     "reactjs",
-    "react"
+    "react",
+    "webpack"
   ],
   "author": "Martín Montes <martin11lrx@gmail.com>",
   "license": "MIT",
@@ -29,6 +30,7 @@
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-config-prettier": "^2.9.0",
+    "eslint-import-resolver-webpack": "^0.9.0",
     "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-prettier": "^2.6.0",
