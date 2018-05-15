@@ -14,7 +14,6 @@ module.exports = {
         "js": "never",
         "jsx": "never"
       }
-
     ],
     "import/prefer-default-export": 0,
     "no-underscore-dangle": 0,
