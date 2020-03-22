@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mmontes11-react",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Eslint config for ReactJS by Martín Montes",
   "main": "index.js",
   "scripts": {
@@ -26,16 +26,16 @@
   },
   "homepage": "https://github.com/mmontes11/eslint-config-mmontes11-react#readme",
   "dependencies": {
-    "babel-eslint": "^8.2.3",
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb": "^17.1.1",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-import-resolver-webpack": "^0.9.0",
-    "eslint-plugin-import": "^2.11.0",
-    "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-prettier": "^2.6.0",
-    "eslint-plugin-react": "^7.8.1",
-    "eslint-plugin-react-hooks": "^1.6.1",
-    "prettier": "^1.12.1"
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-prettier": "^6.0.1",
+    "eslint-import-resolver-webpack": "^0.12.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.1",
+    "prettier": "^2.0.1"
   }
 }
